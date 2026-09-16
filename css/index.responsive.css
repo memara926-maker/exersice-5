@@ -1,0 +1,72 @@
+@media (max-width: 1300px) {
+    #Register .head img{
+        width: 25%;
+    }
+    
+    #Register form{
+        width: 300px;
+    }
+
+    #Search .input-group{
+    width: 250px;
+    margin-left:50px;
+}
+}
+
+@media (min-width: 371px) and (max-width: 1300px) {
+    #Register .head img{
+        width: 30%;
+    }
+    
+    #Search .input-group{
+    width: 250px;
+    margin-left:100px;
+}
+}
+
+@media (min-width: 577px) and (max-width: 1300px) {
+     #Register .head img{
+        width: 25%;
+    }
+    
+    #Register form{
+        width: 350px;
+    }
+
+    #Search .input-group{
+    width: 280px;
+    margin-left:190px;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1300px) {
+    #Register .head img{
+        width: 20%;
+    }
+    
+    #Register form{
+        width: 400px;
+    }
+
+    #Search .input-group{
+    width: 300px;
+    margin-left:280px;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1300px) {
+     #Register .head img{
+        width: 15%;
+    }
+    
+    #Register form{
+        width: 450px;
+    }
+
+    #Search .input-group{
+    width: 300px;
+    margin-left:370px;
+}
+}
+
+@media (min-width: 1181px) and (max-width: 1300px) {}
