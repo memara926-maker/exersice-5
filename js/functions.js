@@ -44,7 +44,7 @@ function showStudent(student){
     tableBody.innerHTML += `
     <tr data-student-id="${student.id}">
         <th>${student.id}</th>
-        <td>${student.fristName}</td>
+        <td>${student.firstName}</td>
         <td>${student.lastName}</td>
         <td>${student.email}</td>
         <td>${student.age}</td>
